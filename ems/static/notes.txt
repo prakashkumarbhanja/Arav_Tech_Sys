@@ -1,0 +1,7 @@
+
+Chennal Name:- Aarav Tech
+
+Importnat Videos No:- 9:- Signal Receiver, 17:- Login Required Decorator,
+                      20:- Custom Middle Ware, 21:- Custom View Decorator,
+                      24:- Class Based Views, 29:- Proxy Model,
+                      30:- Abstract Model, 31:- Custom Model.

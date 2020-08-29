@@ -1,0 +1,10 @@
+asgiref==3.2.7
+Django==3.0.5
+pytz==2019.3
+sqlparse==0.3.1
+
+
+Importnat Videos No:- 9:- Signal Receiver, 17:- Login Required Decorator,
+                      20:- Custom Middle Ware, 21:- Custom View Decorator,
+                      24:- Class Based Views, 29:- Proxy Model,
+                      30:- Abstract Model, 31:- Custom Model.

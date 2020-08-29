@@ -1,0 +1,26 @@
+{% extends 'employee/base.html'%}
+
+{% block title %} Poll Index {% endblock %}
+
+
+{% block css %}
+
+{% endblock %}
+
+{% block content %}
+
+{% if questions %}
+<h1>Question's List</h1>
+<ul>
+    {% for question in questions %}
+        <li>
+            <a href="{%url 'details' question.id %}">{{ question }}</a>
+        </li>
+    {% endfor %}
+</ul>
+{% else %}
+
+<p>No questions Available</p>
+{% endif %}
+
+{% endblock %}
